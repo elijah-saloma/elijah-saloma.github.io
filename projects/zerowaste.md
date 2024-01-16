@@ -35,4 +35,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-This is the associated page on [github]([https://github.com/HACC2023/firesheep]).
+This is the associated page on [github](https://github.com/HACC2023/firesheep).

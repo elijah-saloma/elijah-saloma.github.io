@@ -35,4 +35,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+This is the associated page on [github.]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://github.com/HACC2023/firesheep)https://github.com/HACC2023/firesheep).

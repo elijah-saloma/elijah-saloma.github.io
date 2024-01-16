@@ -27,9 +27,9 @@ The Hawaii Annual Code Challenge (HACC) is an annually held event that challenge
 For this project, I was responsible for front-end development. As this was an application that allowed you to navigate multiple pages, I was tasked to make the user interface easily usable and to take into account how the user interface may function on your phone as opposed to a screen on a monitor. There were other people working on front-end development with me, so I had to also check their formatting and code, along with facilitating each of our tasks.
 
 <div class="text-center p-4">
-  <img height="50px" src="../img/searchpage.png" class="img-thumbnail" >
-  <img height="50px" src="../img/confirmationpage.png" class="img-thumbnail" >
-  <img height="50px" src="../img/historypage.png" class="img-thumbnail" >
+  <img width="200px" src="../img/searchpage.png" class="img-thumbnail" >
+  <img width="200px" src="../img/confirmationpage.png" class="img-thumbnail" >
+  <img width="200px" src="../img/historypage.png" class="img-thumbnail" >
 </div>
 
 This is the associated page on [github](https://github.com/HACC2023/firesheep).

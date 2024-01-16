@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/firesheepicon.png
+image: img/panda.png
 title: "Programming AND Algorithms (PANDA) Officer"
 date: 2023-21-18
 published: true
@@ -14,7 +14,7 @@ summary: "I am an officer for the Programming AND Algorithms club, responsible f
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/firesheep.png" class="img-thumbnail" >
+  <img width="500px" src="../img/panda.png" class="img-thumbnail" >
 </div>
 
 <h1> Purpose </h1>

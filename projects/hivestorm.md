@@ -27,6 +27,6 @@ As this was many of our first times participating in a competitive cyber defense
 
 <h1> Takeaways </h1>
 
-This experience was very engaging for me, and heavily piqued my interest regarding cyber security along with associated career paths. I was provided with resources to get started (via Greyhats), and the knowledge and team communications were also individually very worthwhile experiences. Exposure to the Hivestorm environment was also impactful, and I'll be able to continue to work under a time limit better. Hivestorm also helps with preparing for other cyber security competitions, such as the Collegiate Cyber Defense Competition (CCDC).
+This experience was very engaging for me, and heavily piqued my interest regarding cyber security along with associated career paths. I was provided with resources to get started (via Greyhats), and the knowledge and team communications were also individually very worthwhile experiences. Exposure to the Hivestorm environment was also impactful, and I'll be able to continue to work under a time limit better. Hivestorm also helps with preparing for other cyber security competitions, such as the Collegiate Cyber Defense Competition (CCDC), which I intend on doing eventually.
 
 This is the Hivestorm [website](https://www.hivestorm.org/).

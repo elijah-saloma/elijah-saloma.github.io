@@ -15,14 +15,16 @@ summary: "I participated in the 2022 HiveStorm Competition with a team, a compet
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/panda.png" class="img-thumbnail" >
+  <img width="500px" src="../img/hivestormimg.png" class="img-thumbnail" >
 </div>
 
 <h1> Purpose </h1>
-The Programming and Algorithms Club (PANDA Club) is a special interest group of ACM (Association for Computing Machinery) at the University of Hawaii at Manoa, with the focus of applying algorithmic problem-solving skills. PANDA Club holds weekly meeting, reinforcing these algorithmic problem-solving skills regularly through tackling algorithm problems akin to those you would encounter at a technical interview.
+Hivestorm [website](https://www.hivestorm.org/) is a team cyber defense competition, focusing more on the defensive aspect (Blue Team) as opposed to the hacking aspect (Red Team). We are given a list of security issues to address, and correcting those issues gives teams points. Doing an action that harms the system would result in a reduction of points. We do these actions by using virtual machines with various Linux and Windows operation system versions. 
 
 <h1> Role </h1>
 
-As an officer (Big Panda), I am responsible for leading, facilitating, and teaching groups of students of varying levels. Typically the levels of our ICS Classes at UH Manoa (ICS 111, 211, 212, 311) are the levels of focus, differing on how deep we delve into the algorithms and problem-solving process. I am primarily responsible for mentoring those of the ICS 212 group, but still mentor those in any other group depending on their needs.
+As this was many of our first times participating in a competitive cyber defense competition, including myself, we did not organize each person to do an individual task or focus on a particular area, but all help eachother progress through the issues we had. These teams were hosted by the Greyhats club at UH Manoa, and we were given training for several weeks prior to the competition. We were taught to get used to Linux and virtual machines in general and how to address common issues provided by Hivestorm. 
+
+This experience was very engaging for me, and heavily piqued my interest regarding cyber security along with associated career paths.
 
 This is Hivestorm [website](https://www.hivestorm.org/).

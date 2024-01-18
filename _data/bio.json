@@ -6,7 +6,7 @@
     "email": "esaloma@hawaii.edu",
     "phone": "808-389-1845",
     "website": "https://elijah-saloma.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "elijah-saloma", "url": "https://github.com/elijah-saloma" },
@@ -26,15 +26,15 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,15 +42,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Department of Mathematics",
+      "position": "Calculus 2 Learning Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-21",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Learning assistant to approximately 40-50 Calculus 2 students",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist Calculus 2 students during a recitation with classwork and homework",
+        "Host office hours regularly, along with appointment"
       ]
     },
     {

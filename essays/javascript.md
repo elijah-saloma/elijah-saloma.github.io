@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" src="../img/javascripticon.jpeg" class="img-thumbnail" >
+<img width="200px" class="rounded float-start pe-4" src="../img/javascripticon.jpeg">
 
 ## A Blast to the Past
 
@@ -24,7 +24,7 @@ Although it has been less than a week since I relearnt the language, I do believ
 
 ## WOD! WOD! WOD!
 
-<img width="200px" src="../img/javascriptimg2.png" class="img-thumbnail" >
+<img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg2.png">
 
 Do you remember in P.E. when you were told to run a mile, or to hold that plank for a minute? Wasn’t it a bit fascinating that even though you were working out, time went by extraordinarily slowly? Well WODs (Workouts of the Day) are assessments,that are either pass or fail, that workout your brain with time that goes by extremely quickly. WODs are the core of the athletic software engineering style of learning, that assesses your ability to properly code using JavaScript, understanding problems and approaches, while under a time crunch. 
 

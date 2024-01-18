@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/panda.png
+image: img/hivestorm.png
 title: "2022 HiveStorm"
 date: 2023-10-15
 published: true

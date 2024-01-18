@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" src="../img/javascripticon.png" class="img-thumbnail" >
+<img width="200px" src="../img/javascripticon.jpeg" class="img-thumbnail" >
 
 ## A Blast to the Past
 

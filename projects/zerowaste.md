@@ -17,7 +17,7 @@ summary: "My team (FireSheep) developed an application for the non-profit organi
   <img width="500px" src="../img/firesheep.png" class="img-thumbnail" >
 </div>
 
-<h1> Purpose </h1>
+<h1> General Overview </h1>
 
 The Hawaii Annual Code Challenge (HACC) is an annually held event that challenges professional, amateurs, and students to create solutions for local organizations and the community of Hawaii. In 2023, FireSheep created a web application that kept track of reusable plastic containers that were borrowed by the local community to prevent excess waste from being created. There was a QR code and ID scanner to keep track of these reusable plastic containers, along with a user interface to easily select your preferences.
 
@@ -26,7 +26,7 @@ The Hawaii Annual Code Challenge (HACC) is an annually held event that challenge
   <img width="600px" src="../img/orderqr.png" class="img-thumbnail" >
 </div>
 
-<h1> Role </h1>
+<h1> The Experience </h1>
 
 For this project, I was responsible for front-end development. As this was an application that allowed you to navigate multiple pages, I was tasked to make the user interface easily usable and to take into account how the user interface may function on your phone as opposed to a screen on a monitor. There were other people working on front-end development with me, so I had to also check their formatting and code, along with facilitating each of our tasks.
 
@@ -36,4 +36,5 @@ For this project, I was responsible for front-end development. As this was an ap
   <img width="450px" src="../img/historypage.png" class="img-thumbnail" >
 </div>
 
-This is the associated page on [github](https://github.com/HACC2023/firesheep).
+<h1> Takeaways </h1>
+This is an informative [website](https://314firesheep.github.io/) on the project.

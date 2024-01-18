@@ -28,7 +28,7 @@ The Hawaii Annual Code Challenge (HACC) is an annually held event that challenge
 
 <h1> The Experience </h1>
 
-For this project, I was responsible for front-end development. As this was an application that allowed you to navigate multiple pages, I was tasked to make the user interface easily usable and to take into account how the user interface may function on your phone as opposed to a screen on a monitor. There were other people working on front-end development with me, so I had to also check their formatting and code, along with facilitating each of our tasks.
+For this project, I was responsible for front-end development. As this was an application that allowed you to navigate multiple pages, I was tasked to make the user interface easily usable and to take into account how the user interface may function on your phone as opposed to a screen on a monitor. There were other people working on front-end development with me so I had to also check their formatting and code, along with facilitating each of our tasks. Regular check-in's in progress were also done and keeping our fellow members updated was crucial to our teamwork.
 
 <div class="text-center p-4">
   <img width="410px" src="../img/confirmationpage.png" class="img-thumbnail" >
@@ -38,8 +38,8 @@ For this project, I was responsible for front-end development. As this was an ap
 
 <h1> Takeaways </h1>
 
-I believe this experience was incredibly beneficial to reinforcing team-based project skills, such as reliable and effective communication. Being able to work on the front-end with multiple people also allowed me to strengthen my skills in user-friendly interface development, along with reinforcing general HTML and CSS skills.
+I believe this experience was incredibly beneficial to reinforcing team-based project skills, such as reliable and effective communication. Being able to work on the front-end with multiple people also allowed me to strengthen my skills in user-friendly interface development, along with reinforcing general HTML and CSS skills. As this was a team-based project the time constraints were also something that I didn't take into consideration as heavily but moving forward, I will certainly do so.
 
 This is an informative [website](https://314firesheep.github.io/) on the project.
 
-(Note: At the time, I was the only member of FireSheep who was not taking ICS314, thus not a recorded member on the ICS314 project page, which is the provided website, but I was still an official member on the team for HACC)
+(Note: At the time I was the only member of FireSheep who was not taking ICS314, thus not a recorded member on the ICS314 project page, which is the provided website, but I was still an official member on the team for HACC)

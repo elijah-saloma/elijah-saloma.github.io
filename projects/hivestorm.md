@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hivestorm.png
+image: img/hivestormicon.png
 title: "2022 HiveStorm"
 date: 2023-10-15
 published: true
@@ -10,7 +10,7 @@ labels:
   - Virtual Box
   - CyberSecurity
   - Blue Team CyberSecurity
-summary: "Our team and I participated in the 2022 HiveStorm Competition, a competition awarding points based on capture-the-flag style objectives within various Linux and Windows operating system versions as well as security best practices.
+summary: "I participated in the 2022 HiveStorm Competition with a team, a competition awarding points based on capture-the-flag style objectives within various Linux and Windows operating system versions as well as security best practices.
 "
 ---
 

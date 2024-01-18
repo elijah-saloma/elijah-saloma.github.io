@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg3.jpeg">
 
 ## A Blast to the Past
 
@@ -17,13 +17,15 @@ I remember sitting in a classroom during my first day of freshman year of high s
 
 ## Personal thoughts on JavaScript
 
+<img width="200px" class="rounded float-start pe-4" src="../img/javascripticon.jpeg">
+
 As someone revisiting JavaScript without consistent practice in the past few years, it was pretty enjoyable relearning the language. I have fairly clear memories of struggling with JavaScript as a freshman and with my current knowledge of coding from university, it was not only nostalgic but interesting thinking of those struggles when understanding them easily now. Perhaps it’s because of my fundamental understanding of coding and exposure to other languages now, but it was a recurring thought when I was going through the FreeCodeCamp. 
 
 Although it has been less than a week since I relearnt the language, I do believe it’s a powerful and relatively simple programming language. The ease of use of JavaScript is incredible and makes it a very versatile language and, in my opinion, is much easier than the other languages I’ve learnt in college, namely Java, C, and C++. I recently learned what it meant to be first-class (how functions can be treated as variables) and certain concepts such as arrow functions, granted I was never introduced to the ES6 version of JavaScript so everything from ES6 is completely new to me. Even if I can still learn much more about JavaScript, I do believe that overall JavaScript is great from a software engineering perspective.
 
 ## WOD! WOD! WOD!
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascriptimg2.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg2.png">
 
 Do you remember in P.E. when you were told to run a mile, or to hold that plank for a minute? Wasn’t it a bit fascinating that even though you were working out, time went by extraordinarily slowly? Well WODs (Workouts of the Day) are assessments,that are either pass or fail, that workout your brain with time that goes by extremely quickly. WODs are the core of the athletic software engineering style of learning, that assesses your ability to properly code using JavaScript, understanding problems and approaches, while under a time crunch. 
 

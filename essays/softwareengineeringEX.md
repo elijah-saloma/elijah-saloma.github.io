@@ -24,7 +24,7 @@ Then on, I didn't have any strong conflicting feelings to pursue something else 
 
 My first coding project in high school, where we had to create a fake business website, was a major factor for why I was so certain I wanted to enter the software industry. It was a fantasy-themed bakery store called “Narnia Business” (an extremely funny play on words “None of your Business”), making a user-friendly interface for people wanting to purchase pastries. It was really satisfying seeing other people rate and critique the website highly, but equally as satisfying seeing the work of other people and their thought process of how to cater toward a hypothetical customer.
 
-As a university student getting more and more involved in projects and such, my interest in the software industry has certainly grown. Alongside that, my working with groups of people on projects is always exciting, especially when we all share a common interest. I also joined clubs and competitions centered around solving algorithmic problems and challenges, which consistently reinforces  my growing enjoyment in software engineering.
+As a university student getting more and more involved in projects and such, my interest in the software industry has certainly grown. Alongside that, my working with groups of people on projects is always exciting, especially when we all share a common interest. I also joined clubs and competitions centered around solving algorithmic problems and challenges, which consistently reinforces and contributes to my growing enjoyment in software engineering. 
 
 ## First Steps through the Door
 

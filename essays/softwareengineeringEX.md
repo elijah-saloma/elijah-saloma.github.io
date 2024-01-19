@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg3.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/softwareEXimg1.jpeg">
 
 ## Opening the Door
 
@@ -20,7 +20,7 @@ Then on, I didn't have any strong conflicting feelings to pursue something else 
 
 ## Peeking through the Door
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javascripticon.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/softwareEXimg2.jpg">
 
 My first coding project in high school, where we had to create a fake business website, was a major factor for why I was so certain I wanted to enter the software industry. It was a fantasy-themed bakery store called “Narnia Business” (an extremely funny play on words “None of your Business”), making a user-friendly interface for people wanting to purchase pastries. It was really satisfying seeing other people rate and critique the website highly, but equally as satisfying seeing the work of other people and their thought process of how to cater toward a hypothetical customer.
 
@@ -28,7 +28,7 @@ As a university student getting more and more involved in projects and such, my 
 
 ## First Steps through the Door
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg2.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/softwareEXimg3.jpg">
 
 As of now, it’s an overall bittersweet experience where I feel like I am learning but at the same time it is a really difficult career path to pursue.  These steps take long strides, but it is good to look back and to see how far your footprints have led. I look forward to working on team projects and creating more, whether that would be solutions or something even mildly entertaining. I am still just a second year student so there’s still a long road ahead of me before I graduate, but I can’t wait to learn more. :-)
 

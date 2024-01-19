@@ -25,7 +25,7 @@ Hivestorm is a timed team cyber defense competition, focusing more on the defens
 
 <img width="200px" class="rounded float-start pe-4" src="../img/hivestormimg1.png">
 
-As this was many of our first times participating in a competitive cyber defense competition, including myself, we did not organize each person to do an individual task or focus on a particular area, but instead all help each other progress through the issues we had. These teams were hosted by the Greyhats club at UH Manoa, and we were given training for several weeks prior to the competition. We were taught to get used to Linux and virtual machines in general and how to address common issues provided by Hivestorm. 
+As this was many of our first times participating in a competitive cyber defense competition, including myself, we did not organize each person to do an individual task or focus on a particular area, but instead all help each other progress through the issues we had. These teams were hosted by the Greyhats club at UH Manoa, and we were given training for several weeks prior to the competition. We were taught to get used to Linux and virtual machines (also referred to as VMs) in general and how to address common issues provided by Hivestorm. 
 
 <h1> Takeaways </h1>
 

@@ -3,17 +3,17 @@ layout: essay
 type: essay
 title: "The Doorway of Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-01-18
 published: true
 labels:
-  - JavaScript
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg3.jpeg">
 
 ## Opening the Door
 
-Prior to college, I absolutely loved playing video games. It did not matter what it was, it could have been an incredibly beautiful game with an expansive landscape or a game whose graphics were literally just blocks, as long as it was engaging then my eyes would be glued to that screen for the rest of the night. I have had the preconceived idea that “I am always playing video games on my computer anyway, why not just pursue a career that requires me to work at my computer?” 
+Prior to college, I absolutely loved playing video games. It did not matter what it was, it could have been an incredibly beautiful game with an expansive landscape or a game whose graphics were literally just blocks, as long as it was engaging then my eyes would be glued to that screen for the rest of the night. At the time, I had the preconceived idea that “I am always playing video games on my computer anyway, why not just pursue a career that requires me to work at my computer?” 
 
 Then on, I didn't have any strong conflicting feelings to pursue something else when I started learning coding languages in high school. It almost felt as though it was just a fact that I was going to enter the software engineering field. To be honest, I didn't mind and I actually really enjoyed being able to create something. I loved following the directions of a Lego set, but even more so to not follow those instructions. 
 

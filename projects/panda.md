@@ -22,6 +22,8 @@ The Programming and Algorithms Club (PANDA Club) is a special interest group of 
 
 <div class="text-center p-4">
   The following image is a prompt from our PANDA website:
+</div>
+<div class="text-center p-4">
   <img width="750px" src="../img/pandaimg1.png" class="img-thumbnail" >
 </div>
 

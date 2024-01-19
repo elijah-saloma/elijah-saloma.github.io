@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pandaicon2.png
 title: "Programming AND Algorithms (PANDA) Officer"
-date: 2023-8-21
+date: 2023-08-21
 published: true
 labels:
   - Teaching

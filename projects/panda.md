@@ -20,10 +20,9 @@ summary: "I am an officer for the Programming AND Algorithms (PANDA) club, respo
 <h1> General Overview </h1>
 The Programming and Algorithms Club (PANDA Club) is a special interest group of ACM (Association for Computing Machinery) at the University of Hawaii at Manoa, with the focus of applying algorithmic problem-solving skills. PANDA Club holds weekly meeting, reinforcing these algorithmic problem-solving skills regularly through tackling algorithm problems akin to those you would encounter at a technical interview.
 
-The following image is a prompt from our PANDA [website](https://panda.acmmanoa.org/):
-
 <div class="text-center p-4">
-  <img width="500px" src="../img/pandaimg1.png" class="img-thumbnail" >
+  The following image is a prompt from our PANDA [website](https://panda.acmmanoa.org/):
+  <img width="750px" src="../img/pandaimg1.png" class="img-thumbnail" >
 </div>
 
 <h1> The Experience </h1>

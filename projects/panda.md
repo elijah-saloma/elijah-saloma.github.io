@@ -14,7 +14,7 @@ summary: "I am an officer for the Programming AND Algorithms (PANDA) club, respo
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/panda.png" class="img-thumbnail" >
+  <img width="350px" src="../img/pandaicon2.png" class="img-thumbnail" >
 </div>
 
 <h1> General Overview </h1>

@@ -8,7 +8,6 @@ published: true
 labels:
   - Recycling & Preservation Technology
   - App Development
-  - HTML
   - CSS
 summary: "My team (FireSheep) developed an application for the non-profit organization called Full Cycled Takeout that placed us as finalists in 2023 Hawaii Annual Code Challenge (HACC)."
 ---
@@ -38,7 +37,7 @@ For this project, I was responsible for front-end development. As this was an ap
 
 <h1> Takeaways </h1>
 
-I believe this experience was incredibly beneficial to reinforcing team-based project skills, such as reliable and effective communication. Being able to work on the front-end with multiple people also allowed me to strengthen my skills in user-friendly interface development, along with reinforcing general HTML and CSS skills. As this was a team-based project the time constraints were also something that I didn't take into consideration as heavily but moving forward, I will certainly do so.
+I believe this experience was incredibly beneficial to reinforcing team-based project skills, such as reliable and effective communication. Being able to work on the front-end with multiple people also allowed me to strengthen my skills in user-friendly interface development, along with reinforcing general CSS skills and introductory react bootstrap5 use. As this was a team-based project the time constraints were also something that I didn't take into consideration as heavily but moving forward, I will certainly do so.
 
 This is an informative [website](https://314firesheep.github.io/) on the project.
 

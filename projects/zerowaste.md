@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/firesheepicon.png
+image: img/firesheepicon2.png
 title: "ZeroWaste App"
 date: 2023-11-18
 published: true

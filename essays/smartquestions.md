@@ -9,16 +9,16 @@ labels:
   - StackOverflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smartquestions1.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartquestions1.jpg">
 
 
 ## "There are no such things as Not so Smart questions"
 
-I’m sure we’ve all had the experience where we were sitting in class and our teacher decided to say something along the lines of “There are no such things as not so smart questions”, typically in the beginning of the school year or amidst a completely silent classroom. The logic behind the phrase is that it is likely someone else could also benefit from the answer of our question, regardless if the teacher said something prior that answers it and even then, at least the one who asked would benefit as their question has been answered. 
+I’m sure we’ve all had the experience where we were sitting in class and our teacher decided to say something along the lines of “There are no such things as not so smart questions,” typically in the beginning of the school year or amidst a completely silent classroom. The logic behind the phrase is that it is likely someone else could also benefit from the answer of our question, regardless if the teacher said something prior that answers it and even then, at least the one who asked would benefit as their question has been answered. 
 
 For me personally, I’ve seen this phrase lose its meaning over time and honestly lost its weight. There are videos I can recall watching where a common punchline is of a school setting with the teacher saying the same exact phrase of “There are no such things as not so smart questions” then a student saying a clearly not so smart question for comedic effect. However, I still understand where the phrase is coming from. It’s not so much to ask a question without any thought behind it at all, but rather to at least ask a question in the pursuit of knowledge. Even so, there has to be a better way to ask these not so smart questions, right?
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smartquestions2.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartquestions2.jpg">
 
 ## Well, what is a Smart Question?
 
@@ -38,9 +38,9 @@ Aside from that, there is also the major issue that the entire post is unclear a
 
 As one would expect, the OP received plentiful constructive responses (and consequently more upvotes), while receiving a strong, solid answer regarding the fastest way to iterate through an array in JavaScript and even providing relevant methods. The responses also expanded on relevant topics regarding the prompt, even solutions for searches for objects as most of the solutions are under the assumption that we’re iterating through an array of primitives.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smartquestions5.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartquestions5.jpeg">
 
-## Questions are your Answer
+## Smart Questions are your Answer
 
 Prior to researching smart questions, I did not really put active thought into how impactful they can truly be. Going through Eric Steven Raymond’s “How To Ask Questions The Smart Way” changed my perspective on the representation of our question and how we’re really trying to present our questions so that they are more deserving of other people’s time. Everyone wants answers, but to get your answer you need a proper question. While we can make a list of checkboxes to go through in order to be certain that our question is a smart one, actually making smart questions is a life-long skill that goes beyond the software engineering scope. As such, smart questions are your answer, not just for a technical problem but for many inquiries throughout life.
 

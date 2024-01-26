@@ -4,7 +4,7 @@ type: essay
 title: "The Recipe for a Smart Question"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: true
+published: false
 labels:
   - StackOverflow
 ---

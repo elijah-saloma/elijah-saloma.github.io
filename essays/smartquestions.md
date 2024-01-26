@@ -35,7 +35,9 @@ As one would expect, the OP received plentiful constructive responses (and conse
 
 
 <img width="200px" class="rounded float-start pe-4" src="../img/smartquestions5.jpeg">
+
 ## Questions are your Answer
+
 Prior to researching smart questions, I did not really put active thought into how impactful they can truly be. Going through Eric Steven Raymond’s “How To Ask Questions The Smart Way” changed my perspective on the representation of our question and how we’re really trying to present our questions so that they are more deserving of other people’s time. Everyone wants answers, but to get your answer you need a proper question. While we can make a list of checkboxes to go through in order to be certain that our question is a smart one, actually making smart questions is a life-long skill that goes beyond the software engineering scope. As such, smart questions are your answer, not just for a technical problem but for many inquiries throughout life.
 
 

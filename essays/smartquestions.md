@@ -23,7 +23,7 @@ For me personally, I’ve seen this phrase lose its meaning over time and honest
 <img width="200px" class="rounded float-start pe-4" src="../img/javascripticon.jpeg">
 
 
-## Example of a [Not so Smart] Question
+## Example of a Not so Smart Question
 
 <img width="200px" class="rounded float-start pe-4" src="../img/javascriptimg2.png">
 

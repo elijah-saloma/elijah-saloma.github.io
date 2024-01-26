@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Recipe for a Smart Question"
+title: "The Smart Question Checklist"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true

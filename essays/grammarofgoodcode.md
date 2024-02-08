@@ -25,7 +25,7 @@ How does this translate to code? Just like how the syntax of regular sentences a
 
 ## The Red Squiggly Line
 
-<img width="200px" class="rounded float-start pe-4" src="../img/grammarofcodeimg3.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/gramamrofcodeimg3.png">
 
 I’m sure we’ve all been there, creating an essay on Google documents or some sort of other word processor just to have a red squiggly line under a portion of your sentence. Even if it barely changes the structure of your beautifully written essay, it’s almost a sort of instinct that makes us fix the error right away. After all, having that red squiggly line under the word “suprised” because it should be spelled “surprised” feels as though the document editor is shaking its head. This occurs more often in a development environment than in a Google document and again, we aren’t robots that do everything exactly as expected. Luckily, while we may not be the ones who are robots, we have our friend, ESLint to help us with those issues. Instead of a Google document, ESLint is available on IntelliJ, notifying you whenever you make a not so pretty mistake. It may not be an error, but that red squiggly line will definitely tell you your inconsistencies that do not follow the coding standard.
 

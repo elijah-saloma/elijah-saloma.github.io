@@ -30,8 +30,8 @@ There are a lot more positives to using a framework than there are negatives. Th
 
 While Bootstrap 5 is the only UI Framework I have experience with (as of right now), I can confidently say that UI Frameworks are incredibly powerful tools that can make development much faster and easier. Honestly at some points, the conveniences that UI Frameworks provides can seem as though they were magic. However, one should not rely fully on UI Frameworks. Rather, the use of UI Frameworks (in this case Bootstrap 5) with raw HTML and CSS complement each other nicely. Below are photos of the previously mentioned assignment where we had to rebuild a webpage completely. Can you tell which one is mine?
 
-<img width="200px" class="rounded float-start pe-4" src="../img/uiimg4.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/uiimg5.png">
+<img width="200px" class="rounded pe-4" src="../img/uiimg4.png">
+<img width="200px" class="rounded pe-4" src="../img/uiimg5.png">
 
 Spoiler alert: Mine is the one on the left, though you could probably tell given enough time. If I were to use only Bootstrap, it would probably be much easier to tell which one is the replica, but since I used HTML and CSS together, I was able to create something much closer to the original. 
 There you have it, UI Frameworks are incredible (and perhaps that’s an understatement), but to be able to create something even better you’ll need a solid balance of both.

@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/uiimg1.jpg">
 
-## That looks delicious.
+## That looks delicious
 I love food. I could spend hours just watching short clips of businesses promoting their dishes of crispy pork belly, or a beautifully presented sushi roll, or maybe even that juicy smash burger that’s been trending on Instagram for a while now. Yet when you bite into that burger, do you think of where the patty or buns came from? I know I don’t. It’s interesting to think for a second how that burger got there, but we don’t think too deeply about it. We just slap the components of that burger together and we don’t want to go through all the trouble of raising the cow or harvesting the wheat for our bread—we just want our delicious burger. Likewise with UI Frameworks, we just want our nice looking webpage, and our UI Frameworks are our premade components that enable us to do so. Of course, UI Frameworks aren’t perfect; there are some things we need to consider.
 
 

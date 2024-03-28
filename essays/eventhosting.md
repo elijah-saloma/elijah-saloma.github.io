@@ -12,6 +12,7 @@ labels:
 ---
 
 Title: Events for Bows
+
 Authors: Elijah Saloma, Benjamin Bercasio, Daevin Bagcal, John Serraon, Yuzuki Fujimoto
 
 For our final project we are going to make an event hosting site. The problem is that events on-campus that are advertised via posters are often ignored by the student body as the boards get cluttered and people don’t have time to read them. Even events that are advertised on boards on the ground might  So we will solve this problem by having a web page where all events are listed in categories in an organized fashion so that it is easier for students to find events they may be interested in. 

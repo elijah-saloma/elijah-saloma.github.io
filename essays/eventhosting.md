@@ -11,8 +11,6 @@ labels:
   - Meteor
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 Title: Events for Bows
 Authors: Elijah Saloma, Benjamin Bercasio, Daevin Bagcal, John Serraon, Yuzuki Fujimoto
 

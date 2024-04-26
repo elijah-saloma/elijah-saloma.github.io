@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Baking the Perfect Cake"
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-15
+date: 2024-04-15
 published: true
 labels:
   - Design Patterns
@@ -21,8 +21,7 @@ There are countless cakes, varying heights of tiers, themes for birthdays or wed
 
 ## Putting it in the Oven
 
-Recently, I personally have been baking my own cake using the Model-View-Controller (MVC) design pattern. As the name suggests, it has a focus on three fundamental components of the design pattern: the model, the view, and the controller. The view hides the raw information and data (the model), making it look appealing and understandable to use the controller, which is how the user would interact with the information. As this cake of mine is also being baked with a team, the MVC design pattern has the added benefit of being incredibly easy to divide the work between each other. The ease of splitting responsibilities is especially apparent to me, as I am experiencing MVC firsthand with a team. It’s almost as though we are working on different tiers of a cake separately, and in the end, stacking them all on top of each other to make a singular stunning cake. However, the MVC design pattern naturally has its own steep learning curve, but fortunately my team and I have experience in parts of its implementation, which led to a smooth baking process. The cake my team is currently baking is a project called [Mānoa Rainbow Cards](https://manoa-rainbow-cards.xyz/), and it uses mongodb as the model, .jsx components and pages as the view, and buttons and input fields as the controller. 
-
+Recently, I personally have been baking my own cake using the Model-View-Controller (MVC) design pattern. As the name suggests, it has a focus on three fundamental components of the design pattern: the model, the view, and the controller. The view hides the raw information and data (the model), making it look appealing and understandable to use the controller, which is how the user would interact with the information. As this cake of mine is also being baked with a team, the MVC design pattern has the added benefit of being incredibly easy to divide the work between each other. The ease of splitting responsibilities is especially apparent to me, as I am experiencing MVC firsthand with a team. It’s almost as though we are working on different tiers of a cake separately, and in the end, stacking them all on top of each other to make a singular stunning cake. However, the MVC design pattern naturally has its own steep learning curve, but fortunately my team and I have experience in parts of its implementation, which led to a smooth baking process. The cake my team is currently baking is a project called [Mānoa Rainbow Cards](https://rainbow-cards.github.io/), and it uses mongodb as the model, .jsx components and pages as the view, and buttons and input fields as the controller. 
 
 ## Enjoying a Slice
 

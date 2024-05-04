@@ -21,59 +21,59 @@ AI has certainly taken the world by storm. It’s an incredibly powerful tool in
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+1. Experience WODs e.g. E18
 
 I did not use ChatGPT or AI for any of the experience WODs. I feel as though that in each experience WOD, it’s necessary to embrace the feeling of the unknown and get the answer yourself. In the event that you still don’t know how to complete the experience WOD, most of the experience WODs provide a solution video which would make the necessity for ChatGPT or AI obsolete.
 
-  2. In-class Practice WODs
+2. In-class Practice WODs
 
 I never used ChatGPT or AI for any of the in-class practice WODs. Of course, I could not solve all of them in an instant, and in the event that I got stuck, I would look through the associated experience WOD for this in-class practice WOD. As such, prior material/experiences made the in-class practice WODs easier. We were also allowed to work with a partner step-by-step which made it easier to not rely on ChatGPT or AI. 
 
-  3. In-class WODs
+3. In-class WODs
 
 For all in-class WODs, I did not use ChatGPT or any AI. It was mainly a personal thing, where I felt as though using AI once would incentivize me to use it again for the next WOD, gradually relying more on AI rather than my own skill. There was also the risk that AI may provide you with feedback that is not helpful, which I thought would be a waste of time. This is especially true when the pressure from the timer begins settling in, where one may not be able to formulate their question to ChatGPT effectively. However, I prepared myself thoroughly by going to every practice WOD provided by the TAs instead of relying on AI, so I did not encounter any problems with the in-class WODs.
 
-  4. Essays
+4. Essays
 
 Essays are interesting because there really isn’t that much harm that comes with using AI to correct grammar, rephrasing sentences, or perhaps finding a more appropriate word. I find it more natural to write essays myself, even if my grammar or diction is not on par with AI. At times, my bland or poor word choice may be present, but includes a bit more of my individuality.
 
-  5. Final project
+5. Final project
 
 Fortunately, I haven’t found the need to use ChatGPT or AI for the final project. Instead, I relied on documentation, YouTube, and online guides whenever I would hit a roadblock. For the majority of the project’s components that I was responsible for, I knew how I would start tackling those parts due to sufficient materials/experiences throughout the ICS 314 course. The final project is also done in a team setting, where teammates are able to help each other. I certainly have asked my teammates for some assistance at times, and they could have used AI to help me, meaning I could have indirectly used AI. 
 
-  6. Learning a concept / tutorial
+6. Learning a concept / tutorial
 
 I found that the experience WODs were sufficient enough for me to understand the topics, especially with the video solutions that were included. In the case that a new framework was introduced, the documentation was readily available and was more than enough to understand the basics of that given framework. There were some experience WODs that did not provide a video solution, but those particular WODs essentially gave step-by-step instructions to complete the experience.
 
-  7. Answering a question in class or in Discord
+7. Answering a question in class or in Discord
 
 I didn’t answer any questions in class, as they were coincidentally answered right after the thought popped into my head. I also haven’t found the need to check the course’s Discord channel except for mandatory announcements/prompts and a rare glimpse at the smart-questions. As such, I did not use ChatGPT or AI when answering questions in class or in Discord.
 
-  8. Asking or answering a smart-question
+8. Asking or answering a smart-question
 
 As I said in the previous question, I did not really use the Discord except for the mandatory announcements/prompts. Consequently, I did not ask or answer smart-questions, but I did check the channel when I found an issue with an experience WOD. If it was a common, intrinsic issue that others were also running into, then I would be able to resolve the issue quickly. However, if others did not ask the issue I was having, I would assume I did something wrong and continue trying to solve it on my own. Regarding smart-questions and the smart-questions channel, I did not use ChatGPT or AI to ask or answer them.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”
 
 I did not use ChatGPT or AI to provide myself with coding examples. I found all the resources provided to be sufficient enough to understand most, and if I still did not understand the topic for an extended period of time, then I would depend on YouTube. Prior to this course, I have tried using ChatGPT for code snippets to see what it would produce and found more often than not that the code would not work as intended. The only exception would be incredibly trivial code and prompts.
 
-  10. Explaining code
+10. Explaining code
 
 Being introduced to new code would typically be accompanied by a video explanation (i.e. experience WOD solution videos), so the thought never crossed my mind to use ChatGPT or AI to explain code. Even then, the code for this class was not too difficult to grasp with time and code written by anyone should have comments that sufficiently explains the code in a concise and understandable manner. Thus, I never encountered a reason to use ChatGPT or AI to explain code.
 
-  11. Writing code
+11. Writing code
 
 As I have mentioned before, I don’t use ChatGPT or AI in any production of code, as it is prone to errors. Struggling with the production of your own code allows for a better understanding and learning experience. I personally enjoy creating something myself and seeing the products of such, it makes the experience much more worthwhile and satisfying.
 
-  12. Documenting code
+12. Documenting code
 
 As stated in Section 10, code written by anyone should have comments written by the person who produced it. Sure, ChatGPT or AI could also write comments when prompted to, but it is likely that the code does not function properly or the comments do not accurately reflect the code’s functionality. Documenting code should be done by the individual who did it. This expresses and reinforces understanding for that individual and makes it easier for others to collaborate/use your code.
 
-  13. Quality assurance 
+13. Quality assurance 
 
 I did not use ChatGPT or AI for quality assurance. The closest semblance of such would be the ESLint that constantly kept an eye on my code, and would already do a great job of catching any errors. Seeing as ESLint acted as my quality assurance, I did not find the need to use AI for that reason. However, I could definitely see the usefulness of ChatGPT or AI for this, especially for syntax errors. 
 
-  14. Other uses in ICS 314 not listed above
+14. Other uses in ICS 314 not listed above
 
 I have not used ChatGPT or AI at all in ICS 314. As such, there were no other uses of AI in ICS 314 outside of the prompts already covered.
 

@@ -11,7 +11,7 @@ labels:
   - Education
 ---
 
-<img width="225px" class="rounded float-start pe-4" src="../img/ai-experience.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/ai-experience.jpeg">
 
 ### I. Introduction
 

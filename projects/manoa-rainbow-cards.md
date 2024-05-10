@@ -13,7 +13,7 @@ summary: "My team (Rainbow Cards) developed a website where you can collect trad
 ---
 
 <div class="text-center p-4">
-  <img width="350px" src="../img/mrc1.png" class="img-thumbnail" >
+  <img width="600px" src="../img/mrc1.png" class="img-thumbnail" >
 </div>
 
 ## General Overview

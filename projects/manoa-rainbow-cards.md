@@ -3,15 +3,16 @@ layout: project
 type: project
 image: img/mrc-logo.jpg
 title: "Mānoa Rainbow Cards"
-date: 2024
+date: 2024-05-10
 published: true
 labels:
   - Software Engineering
   - Test Cafe
   - Web Design
 summary: "My team (Rainbow Cards) developed a website where you can collect trading cards of professors. "
+---
 
-<img width="200px" src="../img/micromouse/mrc1.png">
+<img width="200px" src="../img/mrc1.png">
 
 ## General Overview
 
@@ -54,7 +55,7 @@ For example, using the signin function from the signinPage, the simulated cursor
 
 Aside from testing, I was also responsible for both general front-end and back-end development. For the front-end, a fair amount of my commits were dedicated toward aesthetic choices. This includes the background, header, footer, and style consistency between all pages. For the back-end, I created default data of our professors (as we can’t trade cards without the cards), and designed a delete function for admins that decide to remove a professor’s collectible card from the catalog.
 
-<img width="500px" src="../img/micromouse/mrc2.png">
+<img width="500px" src="../img/mrc2.png">
 
 ## Takeaways
 

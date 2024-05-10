@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap", "TestCafe", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,6 +34,15 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Japanese (expected Spring, 2026)",
+      "studyType": "Minor",
       "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [

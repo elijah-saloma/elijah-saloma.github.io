@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mrc-logo.jpg
+image: img/mrc-logo.png
 title: "Mānoa Rainbow Cards"
 date: 2024-05-10
 published: true
@@ -12,7 +12,9 @@ labels:
 summary: "My team (Rainbow Cards) developed a website where you can collect trading cards of professors. "
 ---
 
-<img width="200px" src="../img/mrc1.png">
+<div class="text-center p-4">
+  <img width="350px" src="../img/mrc1.png" class="img-thumbnail" >
+</div>
 
 ## General Overview
 
